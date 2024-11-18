@@ -1,17 +1,14 @@
 {
     "name": "alloyproxy",
     "version": "1.0.0",
-    "description": "Proxy library to unblock the web!",
     "main": "app.js",
     "scripts": {
         "test": "node app.js",
         "start": "node app.js"
     },
     "keywords": [
-        "proxy",
         "unblocker",
         "web",
-        "proxy"
     ],
     "author": "Titanium Network",
     "license": "MIT",
