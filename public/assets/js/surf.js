@@ -5,7 +5,7 @@
 /* ----------------------------------------------- */
 $ = e => document.getElementById(e) || [];
 
-$("tacogithub").href = "https://github.com/Tacosheel/TacoProxy";
+$("tacogithub").href = "https://github.com/Gxnnar/djvjbviub-mx-kwjbviuwbvkjda-dajnvwjvbdbvaj-kjdbviwfvibvdkan-kxajn-jdnviwhbiefbfjbv-dms-lakmcwodvfiuv";
 
 //Alloy Default
 
