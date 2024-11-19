@@ -1,1 +1,3 @@
-
+              - name: web deploy anything
+                uses: SamKirkland/web-deploy@v1
+            
