@@ -3,4 +3,4 @@ rsconnect::setAccountInfo(name='gxnnar',
 			  token='D460A57C77286FA7090EDDFF823F982C',
 			  secret='K7yJ9/bj8JwHvsxfY8/MaCCQna4hDXJN6pd/pBzT')
 library(rsconnect)
-    rsconnect::deployApp('path/to/your/app')
+    rsconnect::deployApp('Public')
